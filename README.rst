@@ -2,8 +2,8 @@
 python-jambel
 =============
 
-.. image:: https://travis-ci.org/jambit/python-jambel.svg?branch=master
-    :target: https://travis-ci.org/jambit/python-jambel
+.. image:: https://github.com/jambit/python-jambel/actions/workflows/check.yml/badge.svg
+    :target: https://github.com/jambit/python-jambel/actions/workflows/check.yml
 
 Interface to jambit's project traffic lights.
 
